@@ -1,0 +1,5 @@
+{
+  "name": "EduSynth AI: Automated Courseware Generator",
+  "description": "A formal PBL research presentation showcasing an AI system that converts topics and PDFs into comprehensive study materials including summaries, slides, audio lectures, and video demonstrations.",
+  "requestFramePermissions": []
+}
